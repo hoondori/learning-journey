@@ -15,3 +15,9 @@
 - Spark tuning
   - Tuning and Debugging Apache Spark, databricks, 2015 ([video](https://youtu.be/kkOG_aJ9KjQ)) (2019.3.31)
   - Spark Performance Tuning, 2018 ([video](https://youtu.be/LtcPhcHAvLw)) (2019.3.31)
+  
+
+## NLP-based ML/DL
+- [semi-supervised sequence learning](https://arxiv.org/abs/1511.01432) [code](https://github.com/dongjun-Lee/transfer-learning-text-tf) (2019.5.7)
+- [fasttext](https://fasttext.cc/docs/en/support.html)
+  - [word representation](https://fasttext.cc/docs/en/unsupervised-tutorial.html)
