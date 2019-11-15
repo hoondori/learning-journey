@@ -21,3 +21,10 @@
 - [semi-supervised sequence learning](https://arxiv.org/abs/1511.01432) [code](https://github.com/dongjun-Lee/transfer-learning-text-tf) (2019.5.7)
 - [fasttext](https://fasttext.cc/docs/en/support.html)
   - [word representation](https://fasttext.cc/docs/en/unsupervised-tutorial.html)
+  
+  
+## Courses
+
+- [cs224w 2018 graph ML](http://snap.stanford.edu/class/cs224w-2018/)
+  - lec4 : Construction, Inference, Deconvolution  [slide](http://snap.stanford.edu/class/cs224w-2018/handouts/04-netconstruct.pdf) [video](http://snap.stanford.edu/class/cs224w-videos-2018/181004-cs224w-720.mp4)
+  
