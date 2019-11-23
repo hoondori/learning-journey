@@ -27,4 +27,11 @@
 
 - [cs224w 2018 graph ML](http://snap.stanford.edu/class/cs224w-2018/)
   - lec4 : Construction, Inference, Deconvolution  [slide](http://snap.stanford.edu/class/cs224w-2018/handouts/04-netconstruct.pdf) [video](http://snap.stanford.edu/class/cs224w-videos-2018/181004-cs224w-720.mp4)
-  
+- [cs294-158: Deep USL](https://sites.google.com/view/berkeley-cs294-158-sp19/home)  
+  - lec6:  SSL [slide](https://drive.google.com/file/d/1qV7tIGc8HqTbho_0_3NGzygO7kovrdAP/view), [video1](https://youtu.be/5NMIUZ7_nrg), [video2](https://youtu.be/AC4l_MY2Dhc)
+  - lec8 : Evaluation of SSL [slide](https://drive.google.com/file/d/1-QT3mstxpi4DTDj9y46JdOxSMpNBgXvi/view), [video](https://youtu.be/7o9dT6puHHg)
+
+
+## Semi-supervised learning
+- Constrative Predictive Coding [paper](https://arxiv.org/abs/1807.03748) [code])(https://github.com/davidtellez/contrastive-predictive-coding)
+- Realistic Evaluation of Deep Semi-Supervised Learning Algorithms [paper](https://arxiv.org/abs/1804.0917) [code:pytorch](https://github.com/perrying/realistic-ssl-evaluation-pytorch)
