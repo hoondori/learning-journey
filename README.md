@@ -30,8 +30,14 @@
 - [cs294-158: Deep USL](https://sites.google.com/view/berkeley-cs294-158-sp19/home)  
   - lec6:  SSL [slide](https://drive.google.com/file/d/1qV7tIGc8HqTbho_0_3NGzygO7kovrdAP/view), [video1](https://youtu.be/5NMIUZ7_nrg), [video2](https://youtu.be/AC4l_MY2Dhc)
   - lec8 : Evaluation of SSL [slide](https://drive.google.com/file/d/1-QT3mstxpi4DTDj9y46JdOxSMpNBgXvi/view), [video](https://youtu.be/7o9dT6puHHg)
-
+  - lec9 : Unsupervised Distribution Alignment [slide](https://drive.google.com/file/d/1bvn7ONQwW7Vno0iKPhd-sPyKYWEGiT8Q/view) [video](https://youtu.be/0AxgLbQfyjQ)
 
 ## Semi-supervised learning
-- Constrative Predictive Coding [paper](https://arxiv.org/abs/1807.03748) [code])(https://github.com/davidtellez/contrastive-predictive-coding)
-- Realistic Evaluation of Deep Semi-Supervised Learning Algorithms [paper](https://arxiv.org/abs/1804.0917) [code:pytorch](https://github.com/perrying/realistic-ssl-evaluation-pytorch)
+- Constrative Predictive Coding ([paper](https://arxiv.org/abs/1807.03748)) ([code](https://github.com/davidtellez/contrastive-predictive-coding))
+- Realistic Evaluation of Deep Semi-Supervised Learning Algorithms ([paper](https://arxiv.org/abs/1804.09170)) ([code:pytorch](https://github.com/perrying/realistic-ssl-evaluation-pytorch)) ([annotated](https://drive.google.com/open?id=1ta53xtLIWjMaysmFRwuYH7pxa5F2e5D7))
+
+
+
+# In Work
+- Unsupervised Distribution Alignment를 이용해서 labeled/hugh In-company dataset과 unlabeled out-of-company dataset 사이의 연결성을 찾아보기 => SSL? or Generator?
+- 도메인에 무관한 SSL 방식들 (Mean Teacher, Virtual Adversarial Training, Entropy Minimization) 사용 
