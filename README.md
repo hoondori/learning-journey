@@ -36,7 +36,20 @@
 - Constrative Predictive Coding ([paper](https://arxiv.org/abs/1807.03748)) ([code](https://github.com/davidtellez/contrastive-predictive-coding))
 - Realistic Evaluation of Deep Semi-Supervised Learning Algorithms ([paper](https://arxiv.org/abs/1804.09170)) ([code:pytorch](https://github.com/perrying/realistic-ssl-evaluation-pytorch)) ([annotated](https://drive.google.com/open?id=1ta53xtLIWjMaysmFRwuYH7pxa5F2e5D7))
 
+## Conferences
 
+- CAMLIS 2019
+ - Learning to Rank Relevant Malware Strings Using Weak Supervision, [link](https://www.camlis.org/2019/talks/tully)
+   - strings 로 출력되는 문자열들의 악성 연관성에 따라 정렬(recommend, rank)하는 문제. snokel로 weak supervision
+   - NDCG, rank 문제의 metric. [link](http://fastml.com/evaluating-recommender-systems/)
+   - snokel, probabilistic label learning
+ 
+- DerbyCon 2019
+ - http://www.irongeek.com/i.php?page=videos%2Fderbycon9%2Fmainlist
+ 
+## OpenSource
+- LightGBM Util [code](https://github.com/hoondori/lightgbm_util)
+  - tree to table converter
 
 # In Work
 - Unsupervised Distribution Alignment를 이용해서 labeled/hugh In-company dataset과 unlabeled out-of-company dataset 사이의 연결성을 찾아보기 => SSL? or Generator?
