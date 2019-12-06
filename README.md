@@ -15,6 +15,9 @@
 - Spark tuning
   - Tuning and Debugging Apache Spark, databricks, 2015 ([video](https://youtu.be/kkOG_aJ9KjQ)) (2019.3.31)
   - Spark Performance Tuning, 2018 ([video](https://youtu.be/LtcPhcHAvLw)) (2019.3.31)
+- GCP, AutoML
+  - AI explanation, [docs](https://storage.googleapis.com/cloud-ai-whitepapers/AI%20Explainability%20Whitepaper.pdf)
+  
   
 
 ## NLP-based ML/DL
@@ -50,6 +53,11 @@
 ## OpenSource
 - LightGBM Util [code](https://github.com/hoondori/lightgbm_util)
   - tree to table converter
+  
+## Uncertainty
+- Google의 Trust Score [annotated](https://drive.google.com/open?id=1SOY1WZvrxoF6bradFzR2YMofxCAjMmWJ) [code](https://github.com/google/TrustScore/)
+
+
 
 # In Work
 - Unsupervised Distribution Alignment를 이용해서 labeled/hugh In-company dataset과 unlabeled out-of-company dataset 사이의 연결성을 찾아보기 => SSL? or Generator?
