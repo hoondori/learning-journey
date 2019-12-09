@@ -56,6 +56,8 @@
   
 ## Uncertainty
 - Google의 Trust Score [annotated](https://drive.google.com/open?id=1SOY1WZvrxoF6bradFzR2YMofxCAjMmWJ) [code](https://github.com/google/TrustScore/)
+- Fitted Learning [annotated](https://drive.google.com/open?id=1EZ-9zdQPZfN8mO0D5OR-S_1rvxxipRpp) [code](https://github.com/yhenon/fitted-learning)
+- 
 
 
 
