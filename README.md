@@ -4,6 +4,8 @@
 ## Programming Skills
 - Visualization for DataScience
   - [DataCamp] Improving Your Visualizations in Python ([buy](https://www.datacamp.com/courses/improving-your-data-visualizations-in-python))([certificate](https://www.datacamp.com/statement-of-accomplishment/course/27cd42680aa2009e96d3e3d897a9031067aefd55)) (2019.3.29)
+- [rolling statistics in python/numpy](https://rigtorp.se/2011/01/01/rolling-statistics-numpy.html)
+- [handling huge data via np.memmap](https://ipython-books.github.io/48-processing-large-numpy-arrays-with-memory-mapping/)
 
 
 ## ML platform/framework
@@ -34,6 +36,7 @@
   - lec6:  SSL [slide](https://drive.google.com/file/d/1qV7tIGc8HqTbho_0_3NGzygO7kovrdAP/view), [video1](https://youtu.be/5NMIUZ7_nrg), [video2](https://youtu.be/AC4l_MY2Dhc)
   - lec8 : Evaluation of SSL [slide](https://drive.google.com/file/d/1-QT3mstxpi4DTDj9y46JdOxSMpNBgXvi/view), [video](https://youtu.be/7o9dT6puHHg)
   - lec9 : Unsupervised Distribution Alignment [slide](https://drive.google.com/file/d/1bvn7ONQwW7Vno0iKPhd-sPyKYWEGiT8Q/view) [video](https://youtu.be/0AxgLbQfyjQ)
+  - guest.lecture : [video](https://youtu.be/PX11C5Vfo9U)
 
 ## Semi-supervised learning
 - Constrative Predictive Coding ([paper](https://arxiv.org/abs/1807.03748)) ([code](https://github.com/davidtellez/contrastive-predictive-coding))
@@ -57,7 +60,14 @@
 ## Uncertainty
 - Google의 Trust Score [annotated](https://drive.google.com/open?id=1SOY1WZvrxoF6bradFzR2YMofxCAjMmWJ) [code](https://github.com/google/TrustScore/)
 - Fitted Learning [annotated](https://drive.google.com/open?id=1EZ-9zdQPZfN8mO0D5OR-S_1rvxxipRpp) [code](https://github.com/yhenon/fitted-learning)
-- 
+
+
+## Ember Dataset
+- TODO List
+  - PE feature 추출해보기
+  - pytorch/ightgbm로 간단한 모델 만들어 학습해보기 
+  - semi-supervised learning 방법 적용해 보기
+  - attack challenge 살펴보기 
 
 
 
