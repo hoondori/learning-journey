@@ -1,6 +1,11 @@
 # learning-journey
 ---
 
+## Book
+
+- [머신러닝 탐구생활](http://www.yes24.com/Product/Goods/63830327), 정권우 지음 
+
+
 ## Programming Skills
 - Visualization for DataScience
   - [DataCamp] Improving Your Visualizations in Python ([buy](https://www.datacamp.com/courses/improving-your-data-visualizations-in-python))([certificate](https://www.datacamp.com/statement-of-accomplishment/course/27cd42680aa2009e96d3e3d897a9031067aefd55)) (2019.3.29)
@@ -19,6 +24,8 @@
   - Spark Performance Tuning, 2018 ([video](https://youtu.be/LtcPhcHAvLw)) (2019.3.31)
 - GCP, AutoML
   - AI explanation, [docs](https://storage.googleapis.com/cloud-ai-whitepapers/AI%20Explainability%20Whitepaper.pdf)
+- Spectral clustering 
+  - sklearn.clustering [code]()
   
   
 
@@ -30,8 +37,10 @@
   
 ## Courses
 
-- [cs224w 2018 graph ML](http://snap.stanford.edu/class/cs224w-2018/)
+- [cs224w 2018 graph ML](http://snap.stanford.edu/class/cs224w-2019/)
+  - [HW0](https://nbviewer.jupyter.org/github/hoondori/CS224W_HW/blob/master/HW0/HW_0.ipynb)
   - lec4 : Construction, Inference, Deconvolution  [slide](http://snap.stanford.edu/class/cs224w-2018/handouts/04-netconstruct.pdf) [video](http://snap.stanford.edu/class/cs224w-videos-2018/181004-cs224w-720.mp4)
+  - lec6 : Community Structure in Networks [slide](http://snap.stanford.edu/class/cs224w-2018/handouts/06-communities.pdf) [video](http://snap.stanford.edu/class/cs224w-videos-2018/181011-cs224w-720.mp4)
 - [cs294-158: Deep USL](https://sites.google.com/view/berkeley-cs294-158-sp19/home)  
   - lec6:  SSL [slide](https://drive.google.com/file/d/1qV7tIGc8HqTbho_0_3NGzygO7kovrdAP/view), [video1](https://youtu.be/5NMIUZ7_nrg), [video2](https://youtu.be/AC4l_MY2Dhc)
   - lec8 : Evaluation of SSL [slide](https://drive.google.com/file/d/1-QT3mstxpi4DTDj9y46JdOxSMpNBgXvi/view), [video](https://youtu.be/7o9dT6puHHg)
@@ -56,6 +65,9 @@
 ## OpenSource
 - LightGBM Util [code](https://github.com/hoondori/lightgbm_util)
   - tree to table converter
+- [networkx](https://networkx.github.io/)
+- [python-louvain](https://github.com/taynaud/python-louvain)
+
   
 ## Uncertainty
 - Google의 Trust Score [annotated](https://drive.google.com/open?id=1SOY1WZvrxoF6bradFzR2YMofxCAjMmWJ) [code](https://github.com/google/TrustScore/)
