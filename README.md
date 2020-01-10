@@ -37,8 +37,9 @@
   
 ## Courses
 
-- [cs224w 2018 graph ML](http://snap.stanford.edu/class/cs224w-2019/)
+- [cs224w 2019 graph ML](http://snap.stanford.edu/class/cs224w-2019/)
   - [HW0](https://nbviewer.jupyter.org/github/hoondori/CS224W_HW/blob/master/HW0/HW_0.ipynb)
+  - [HW1](https://nbviewer.jupyter.org/github/hoondori/CS224W_HW/blob/master/HW1/HW_1.ipynb)
   - lec4 : Construction, Inference, Deconvolution  [slide](http://snap.stanford.edu/class/cs224w-2018/handouts/04-netconstruct.pdf) [video](http://snap.stanford.edu/class/cs224w-videos-2018/181004-cs224w-720.mp4)
   - lec6 : Community Structure in Networks [slide](http://snap.stanford.edu/class/cs224w-2018/handouts/06-communities.pdf) [video](http://snap.stanford.edu/class/cs224w-videos-2018/181011-cs224w-720.mp4)
 - [cs294-158: Deep USL](https://sites.google.com/view/berkeley-cs294-158-sp19/home)  
